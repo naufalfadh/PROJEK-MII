@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f42e33fd-470c-4621-9028-308df291e42e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/App.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/App.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/backbone/ContentTitle.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/backbone/ContentTitle.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/backbone/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/backbone/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/backbone/Menu.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/backbone/Menu.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/beranda/Index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/beranda/Index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/login/Index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/login/Index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-alat-mesin/Add.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-alat-mesin/Detail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-alat-mesin/Edit.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-alat-mesin/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-alat-mesin/Root.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Detail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Detail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Edit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Edit.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kerusakan/Index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kurs-proses/Add.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kurs-proses/Detail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kurs-proses/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-kurs-proses/Root.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Detail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Detail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Edit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Edit.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-model/Index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-operator/Add.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-operator/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-operator/Root.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-pelanggan/Add.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-pelanggan/Detail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-pelanggan/Edit.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-pelanggan/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-pelanggan/Root.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-produk/Add.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-produk/Detail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-produk/Edit.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-produk/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-produk/Root.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-proses/Add.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-proses/Detail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-proses/Edit.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-proses/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-proses/Root.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Add.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Add.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Detail.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Detail.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Edit.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Edit.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Index.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/master-shift/Index.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/permintaan-pelanggan/Add.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/permintaan-pelanggan/Detail.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/permintaan-pelanggan/Edit.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/permintaan-pelanggan/Index.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/page/permintaan-pelanggan/Root.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/part/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/part/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/util/Constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/util/Constants.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/util/CreateRoute.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/util/CreateRoute.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/component/util/UploadFile.js" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/component/util/UploadFile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FrontEnd-MII/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/FrontEnd-MII/src/index.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/FrontEnd-MII" />
+  </component>
+  <component name="ProjectId" id="2i7b6l9VOoZivHa5golVAoC3pFO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PROJEK PRG 7 (ISUZU)/PROJEK MII/sistem-informasi-produksi-backend",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f42e33fd-470c-4621-9028-308df291e42e" name="Changes" comment="" />
+      <created>1718844389931</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718844389931</updated>
+      <workItem from="1718844391179" duration="144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
